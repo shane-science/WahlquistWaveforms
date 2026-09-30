@@ -1,0 +1,14 @@
+basename  = adm_0.9
+a (AU)    = 0.00235457
+ecc       = 0.9
+inc (deg) = 0.0
+m1 (msun) = 3.0
+m2 (msun) = 10.0
+R (pc)    = 132.870000
+thN (deg) = 0.0
+thP (deg) = 0.0
+phi (deg) = 0.0
+th1 (deg) = 0.0000
+tsim (yr) = 1.58443823e-4
+Npts      = 4096
+fftFlag   = 1
